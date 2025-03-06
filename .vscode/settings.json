@@ -1,0 +1,8 @@
+{
+    "terminal.integrated.profiles.windows": {
+        "MyBash": {
+        "path": "C:\\Users\\13740\\AppData\\Local\\Microsoft\\WindowsApps\\bash.exe"
+        }
+    },
+    "terminal.integrated.defaultProfile.windows": "Bash",
+}
